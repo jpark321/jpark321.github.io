@@ -2,7 +2,7 @@ github_users:
   - jpark321
 
 github_repos:
-  - jpark321.github.io
-  - jpark321
-  - ProjectEulerC
-  - ProjectEuler
+  - jpark321/jpark321.github.io
+  - jpark321/jpark321
+  - jpark321/ProjectEulerC
+  - jpark321/ProjectEuler

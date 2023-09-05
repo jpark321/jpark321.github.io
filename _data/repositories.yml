@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jpark321
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jpark321.github.io
+  - jpark321
+  - ProjectEulerC
+  - ProjectEuler

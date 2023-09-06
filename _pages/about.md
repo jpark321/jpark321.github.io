@@ -31,7 +31,7 @@ I was fortunate enough to have multiple internship opportunities at various comp
 
 My research interests mostly revolve around (but certainly are not limited to) machine learning on texts: Natural Language Processing/Understanding. I also am keen to delve into graph neural networks and temporal neural networks, searching for ways to incorporate these concepts to solving NLP tasks.
 
-I hope to log steps of my journey here and showcase my knowledge/experiments.
+I hope to log steps of my journey here and showcase my knowledge/understanding.
 
 Thank you for spending the time to stop by.
 

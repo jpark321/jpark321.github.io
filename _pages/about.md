@@ -36,4 +36,5 @@ I hope to log steps of my journey here and showcase my knowledge/experiments.
 Thank you for spending the time to stop by.
 
 Best regards,
+
 John

@@ -43,7 +43,7 @@
       "endDate": "2022-08",
       "summary": "Summer Internship at Britannica to research and develop better strategies to implement search engine and recommendation system",
       "highlights": [
-        ""
+        "Setup Sphinx and Elasticsearch/Kibana search engines to improve article search on internal database"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://www.wolframalpha.com",
       "startDate": "2018-05",
       "endDate": "2022-05",
-      "summary": "",
+      "summary": "Wolfram Alpha localization for korean language",
       "highlights": [
         "Develop, test, and debug Korean NLP for W|A to correctly parse and calculate Korean queries"
       ]

@@ -29,9 +29,10 @@
       "url": "https://aws.amazon.com/lambda",
       "startDate": "2022-09",
       "endDate": "2023-01",
-      "summary": "",
+      "summary": "Fall Internship at AWS Lambda assigned to improve Concurrency Limit Management Service to incorporate ARM workload when updating customer’s concurrency limit",
       "highlights": [
-        ""
+        "Document technical Design Doc for planned updates on CLMS workflow and changes to its structure; and have it reviewed and approved for implementation",
+        "Implemented using Java, Dagger2 dependency injection, AWS Lambda, SQL query to Lambda internal metrics database, Continuous Integration/Deployment pipeline, pull requests with approved code reviews, load/stress testing, and unit testing via JUnit and Mockito framework"
       ]
     },
     {
@@ -40,7 +41,7 @@
       "url": "https://www.britannica.com",
       "startDate": "2022-05",
       "endDate": "2022-08",
-      "summary": "",
+      "summary": "Summer Internship at Britannica to research and develop better strategies to implement search engine and recommendation system",
       "highlights": [
         ""
       ]
@@ -53,7 +54,7 @@
       "endDate": "2022-05",
       "summary": "",
       "highlights": [
-        ""
+        "Develop, test, and debug Korean NLP for W|A to correctly parse and calculate Korean queries"
       ]
     }
   ],
@@ -70,7 +71,8 @@
       "courses": [
         "Databases",
         "Deep Learning",
-        ""
+        "Natural Language Processing",
+        "Graph Convolutional Networks"
       ]
     },
     {
@@ -88,14 +90,7 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
@@ -111,7 +106,7 @@
   ],
   "interests": [
     {
-      "hobbies": "tennis, jiu-jitsu"
+      "name": "tennis, jiu-jitsu"
     }
   ],
   "references": [],

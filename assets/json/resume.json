@@ -6,7 +6,7 @@
     "email": "jpark321@uis.edu",
     "phone": "",
     "url": "https://jpark321.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,38 +24,76 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Amazon Web Services",
+      "position": "Software Development Engineer, Intern",
+      "url": "https://aws.amazon.com/lambda",
+      "startDate": "2022-09",
+      "endDate": "2023-01",
+      "summary": "",
       "highlights": [
-        "Relativity"
+        ""
+      ]
+    },
+    {
+      "name": "Encyclopædia Britannica",
+      "position": "Software Developer, Intern",
+      "url": "https://www.britannica.com",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Wolfram Research",
+      "position": "Technical Korean Translator",
+      "url": "https://www.wolframalpha.com",
+      "startDate": "2018-05",
+      "endDate": "2022-05",
+      "summary": "",
+      "highlights": [
+        ""
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Illinois, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Illinois Springfield",
+      "url": "https://www.uis.edu/csc",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "startDate": "2021-08",
+      "endDate": "",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Databases",
+        "Deep Learning",
+        ""
+      ]
+    },
+    {
+      "institution": "University of Illinois at Urbana-Champaign",
+      "url": "https://math.illinois.edu",
+      "area": "Mathematics",
+      "studyType": "BSc",
+      "startDate": "2014-08",
+      "endDate": "2017-12",
+      "score": "",
+      "courses": [
+        "Abstract Algebra",
+        "Linear Algebra",
+        "Graph Theory"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "certificates": [],
@@ -63,7 +101,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker"
     },
     {
@@ -71,7 +109,11 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "hobbies": "tennis, jiu-jitsu"
+    }
+  ],
   "references": [],
   "projects": []
 }

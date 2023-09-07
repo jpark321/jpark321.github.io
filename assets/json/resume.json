@@ -63,8 +63,8 @@
     {
       "institution": "University of Illinois Springfield",
       "url": "https://www.uis.edu/csc",
-      "area": "Computer Science",
-      "studyType": "MSc",
+      "area": "",
+      "studyType": "M.S. in Computer Science",
       "startDate": "2021-08",
       "endDate": "",
       "score": "",
@@ -78,8 +78,8 @@
     {
       "institution": "University of Illinois at Urbana-Champaign",
       "url": "https://math.illinois.edu",
-      "area": "Mathematics",
-      "studyType": "BSc",
+      "area": "",
+      "studyType": "B.S. in Mathematics",
       "startDate": "2014-08",
       "endDate": "2017-12",
       "score": "",

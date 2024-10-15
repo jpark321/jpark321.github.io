@@ -16,13 +16,25 @@
     },
     "profiles": [
       {
-        "network": "LinkedIn",
+        "network": "linkedin",
         "username": "jpark321",
         "url": "https://www.linkedin.com/in/jpark321"
       }
     ]
   },
   "work": [
+    {
+      "name": "Medtronic Diabetes",
+      "position": "Software Engineer I",
+      "url": "https://www.medtronicdiabetes.com/",
+      "startDate": "2023-12",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
     {
       "name": "Amazon Web Services",
       "position": "Software Development Engineer, Intern",
@@ -58,7 +70,18 @@
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "",
+      "location": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "University of Illinois Springfield",
@@ -90,18 +113,51 @@
       ]
     }
   ],
-  "awards": [],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "",
+      "date": "",
+      "issuer": "",
+      "url": "",
+      "icon": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "icon": "",
+      "keywords": []
+    }
+  ],
   "languages": [
     {
       "language": "Korean",
-      "fluency": "Native speaker"
+      "fluency": "Native speaker",
+      "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
   "interests": [
@@ -114,6 +170,21 @@
       "keywords": "Acoustic Guitar, Bass"
     }
   ],
-  "references": [],
-  "projects": []
+  "references": [
+    {
+      "name": "",
+      "icon": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "summary": "",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    }
+  ]
 }

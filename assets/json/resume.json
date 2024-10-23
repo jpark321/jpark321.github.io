@@ -8,20 +8,20 @@
     "url": "https://jpark321.github.io",
     "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "CA 91324",
+      "city": "Northridge",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
+        "network": "linkedin",
         "username": "jpark321",
         "url": "https://www.linkedin.com/in/jpark321"
       },
       {
-        "network": "GitHub",
+        "network": "github",
         "username": "jpark321",
         "url": "https://github.com/jpark321"
       }
@@ -31,7 +31,7 @@
     {
       "name": "Medtronic Diabetes",
       "position": "Software Engineer I",
-      "url": "https://www.medtronicdiabetes.com/",
+      "url": "https://www.medtronicdiabetes.com",
       "startDate": "2023-12",
       "endDate": "",
       "summary": "",

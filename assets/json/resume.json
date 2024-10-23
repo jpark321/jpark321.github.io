@@ -60,11 +60,10 @@
       "url": "https://www.britannica.com",
       "startDate": "2022-05",
       "endDate": "2022-08",
-      "summary": "Researched and implemented advanced search and recommendation strategies for content discovery optimization",
+      "summary": "Researched and implemented search optimization strategies for content discovery",
       "highlights": [
-        "Conducted comparative analysis of search engine technologies to identify optimal solutions for internal database querying",
-        "Explored and implemented two distinct search approaches using Sphinx and Elasticsearch/Kibana to evaluate their effectiveness for article discovery",
-        "Developed recommendation system strategies to improve content accessibility and user engagement"
+        "Evaluated and implemented search solutions using Sphinx and Elasticsearch/Kibana to improve article discovery",
+        "Developed strategies for enhancing content recommendation system"
       ]
     },
     {
@@ -75,9 +74,8 @@
       "endDate": "2022-05",
       "summary": "Specialized in Korean language integration for Wolfram Alpha's computational knowledge engine",
       "highlights": [
-        "Developed and refined Korean Natural Language Processing systems, enabling accurate parsing and computation of Korean language queries",
-        "Created comprehensive test suite by translating and adapting example queries into Korean, ensuring parsing accuracy and computational reliability",
-        "Conducted systematic debugging and optimization of Korean language processing capabilities to enhance query accuracy"
+        "Developed and tested Korean Natural Language Processing systems for accurate query parsing and computation",
+        "Created and maintained Korean language test suite to ensure computational reliability"
       ]
     }
   ],

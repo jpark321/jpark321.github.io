@@ -34,11 +34,11 @@
       "url": "https://www.medtronicdiabetes.com",
       "startDate": "2023-12",
       "endDate": "",
-      "summary": "",
+      "summary": "Software engineer focusing on critical healthcare platform development and authentication systems modernization",
       "highlights": [
-        "Manage internal Medtronic Carelink DB/API for user authentication, BLE device communications, and healthcare professional administration",
-        "Maintain PostgreSQL database and Redis cache systems, performing API testing with Postman and deployment through JBoss",
-        "Lead migration of Carelink login module to Auth0 platform for global login and SSO implementation"
+        "Contribute to User Services team managing mission-critical Medtronic Carelink platform, serving healthcare professionals and patients through integrated web/mobile applications for device management and account services",
+        "Optimize performance and reliability of high-traffic PostgreSQL database and Redis cache systems, while maintaining API functionality through comprehensive Postman testing and JBoss deployment protocols",
+        "Collaborate on migration of legacy authentication system to Auth0 platform, implementing global Single Sign-On (SSO) solution to enhance security and user experience across international markets"
       ]
     },
     {
@@ -47,11 +47,11 @@
       "url": "https://aws.amazon.com/lambda",
       "startDate": "2022-09",
       "endDate": "2023-01",
-      "summary": "",
+      "summary": "Enhanced AWS Lambda's Concurrency Limit Management Service (CLMS) to optimize ARM-based workload management and customer concurrency limits",
       "highlights": [
-        "Authored technical Design Doc for updates to Concurrency Limit Management Service (CLMS) to support ARM workload",
-        "Implemented service improvements using Java, Dagger2, AWS Lambda, and SQL",
-        "Developed with CI/CD pipeline, utilizing JUnit and Mockito for testing"
+        "Authored and received approval for technical design documentation detailing CLMS workflow improvements and architectural changes to support ARM workload integration",
+        "Implemented approved design using Java and Dagger2 DI framework, incorporating sophisticated SQL queries for Lambda metrics analysis",
+        "Established robust quality assurance through comprehensive unit testing with JUnit and Mockito frameworks, ensuring reliable deployment through CI/CD pipeline"
       ]
     },
     {
@@ -60,10 +60,11 @@
       "url": "https://www.britannica.com",
       "startDate": "2022-05",
       "endDate": "2022-08",
-      "summary": "",
+      "summary": "Researched and implemented advanced search and recommendation strategies for content discovery optimization",
       "highlights": [
-        "Set up Sphinx and Elasticsearch/Kibana search engines to enhance article search capabilities on internal database",
-        "Optimized content discovery system for improved user experience"
+        "Conducted comparative analysis of search engine technologies to identify optimal solutions for internal database querying",
+        "Explored and implemented two distinct search approaches using Sphinx and Elasticsearch/Kibana to evaluate their effectiveness for article discovery",
+        "Developed recommendation system strategies to improve content accessibility and user engagement"
       ]
     },
     {
@@ -72,10 +73,11 @@
       "url": "https://www.wolframalpha.com",
       "startDate": "2018-05",
       "endDate": "2022-05",
-      "summary": "",
+      "summary": "Specialized in Korean language integration for Wolfram Alpha's computational knowledge engine",
       "highlights": [
-        "Developed and debugged Korean NLP for Wolfram|Alpha query parsing and calculation",
-        "Enhanced platform accessibility for Korean-speaking users"
+        "Developed and refined Korean Natural Language Processing systems, enabling accurate parsing and computation of Korean language queries",
+        "Created comprehensive test suite by translating and adapting example queries into Korean, ensuring parsing accuracy and computational reliability",
+        "Conducted systematic debugging and optimization of Korean language processing capabilities to enhance query accuracy"
       ]
     }
   ],

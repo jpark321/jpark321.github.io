@@ -34,11 +34,12 @@
       "url": "https://www.medtronicdiabetes.com",
       "startDate": "2023-12",
       "endDate": "",
-      "summary": "Software engineer focusing on critical healthcare platform development and authentication systems modernization",
+      "summary": "Software engineer contributing to comprehensive modernization of Medtronic Carelink healthcare platform",
       "highlights": [
-        "Contribute to User Services team managing mission-critical Medtronic Carelink platform, serving healthcare professionals and patients through integrated web/mobile applications for device management and account services",
-        "Optimize performance and reliability of high-traffic PostgreSQL database and Redis cache systems, while maintaining API functionality through comprehensive Postman testing and JBoss deployment protocols",
-        "Collaborate on migration of legacy authentication system to Auth0 platform, implementing global Single Sign-On (SSO) solution to enhance security and user experience across international markets"
+        "Troubleshoot and resolve system issues in Carelink platform across multiple environments (Dev, Test, Stage, Prod), ensuring reliable service delivery through Agile SDLC practices",
+        "Support diverse API integrations serving patients, healthcare professionals, customer service agents, and device teams interfacing with Medtronic Diabetes' core systems",
+        "Implement data validation improvements and bug fixes for user consent management, configuration updates, and service utilities within the Carelink ecosystem",
+        "Collaborate on Auth0 platform integration to enhance global authentication capabilities"
       ]
     },
     {
